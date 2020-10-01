@@ -27,7 +27,7 @@ function App() {
 
         {
             title: "Политика по уменьшению загрязнений",
-            href:  "pollution_policy"
+            href:  "#pollution_policy"
         }
 
 
