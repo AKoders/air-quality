@@ -31,10 +31,10 @@
     "static/media/women-and-kids.jpg": "/air-quality/static/media/women-and-kids.7e1db0da.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c0b8cd0.js",
-    "static/css/2.6c6a473a.chunk.css",
-    "static/js/2.abd17ac2.chunk.js",
-    "static/css/main.bc3ada0a.chunk.css",
-    "static/js/main.f2320ca9.chunk.js"
+    "air-quality/static/js/runtime-main.2c0b8cd0.js",
+    "air-quality/static/css/2.6c6a473a.chunk.css",
+    "air-quality/static/js/2.abd17ac2.chunk.js",
+    "air-quality/static/css/main.bc3ada0a.chunk.css",
+    "air-quality/static/js/main.f2320ca9.chunk.js"
   ]
 }
